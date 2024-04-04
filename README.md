@@ -1,16 +1,8 @@
 # desafio_column_row
 
-A new Flutter project.
+exemplo de como deve fica
+![Exemple](https://github.com/EiJhonatan/desafio_column_row/assets/103134496/63322fa1-4e56-4010-8df3-4310b985db9c)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+como ficou
+![image](https://github.com/EiJhonatan/desafio_column_row/assets/103134496/8163042b-8893-4426-8a5d-aee5721c011e)
